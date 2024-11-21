@@ -2,8 +2,8 @@ import {defineConfig} from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "documentation - Dokumentacija",
-  description: "Upustvo/Dokumentacija za korišćenje documentation",
+  title: "Dokumentacija",
+  description: "Upustvo/Dokumentacija za korišćenje dokumentacije",
   head: [['link', {rel: 'icon', href: '/icons/favicon.ico'}]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
